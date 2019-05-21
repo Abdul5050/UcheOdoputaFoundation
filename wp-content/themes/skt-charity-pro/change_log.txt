@@ -1,0 +1,8 @@
+Version pro1.0
+i) Intial version Release
+
+Version pro2.0
+i)   Slider changeable option
+ii)  Excerpt length manageable
+iii) Read more button text manageable
+iv)  Page boxes column manageable

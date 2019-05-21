@@ -1,0 +1,1 @@
+[27-Feb-2017 21:10:52 Africa/Lagos] PHP Fatal error:  Call to undefined function add_action() in /home/ucheodop/public_html/wp-content/plugins/hello.php on line 60

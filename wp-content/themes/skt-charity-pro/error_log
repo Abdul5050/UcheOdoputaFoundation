@@ -1,0 +1,2 @@
+[10-Sep-2017 09:58:25 Africa/Lagos] PHP Fatal error:  Call to undefined function get_header() in /home/ucheodop/public_html/wp-content/themes/skt-charity-pro/404.php on line 8
+[11-Sep-2017 15:17:28 Africa/Lagos] PHP Fatal error:  Call to undefined function get_header() in /home/ucheodop/public_html/wp-content/themes/skt-charity-pro/index.php on line 13
